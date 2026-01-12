@@ -29,6 +29,8 @@ This project analyzes clothing business sales data using Python to uncover key i
 9) Monthly sales trends
 10) Identification of peak sales periods
 11) Revenue contribution by product
+
+
 **Conclusion**
 This project demonstrates how Python can be effectively used to analyze retail sales data and generate valuable business insights.
 The analysis supports better decision-making in areas such as stock optimization, marketing focus, and regional strategy planning.
